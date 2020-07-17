@@ -41,10 +41,8 @@ This document speaks to the security best practices around AKS.
 ## Additional Links
 
  * [Azure Cloud Adoption Framework Documentation](https://azure.microsoft.com/en-us/cloud-adoption-framework)
-
  * [Additional Cloud Adoption Framework Resources](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)
-
-* [AKS Documentation](https://docs.microsoft.com/en-us/azure/aks/) 
+ * [AKS Documentation](https://docs.microsoft.com/en-us/azure/aks/) 
 
 
 ## Key Contributors
