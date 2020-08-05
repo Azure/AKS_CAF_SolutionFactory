@@ -1,8 +1,10 @@
 # Azure Kubernetes Service(AKS) Solution Factory Aligned to Cloud Adoption Framework # 
+The AKS CAF Solution Factory has contents to help deployment of Kubernetes to Azure in alignment to Cloud Adoption Framework. 
+
 The AKS CAF Solution Factory is collection of eBook, TaskList in DevOps Project and Excel, Security Policies suggestions that can help Microsoft customers and partners to deploy and manage AKS in alignment to Cloud Adoption Framework (CAF).  
 
 The Azure Cloud Adoption Journey
- ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
+ ![CAF](/CAF.png)
 
 ## AKS CAF Solution Factory Contents
 
@@ -44,10 +46,15 @@ This document speaks to the security best practices around AKS.
  * [Additional Cloud Adoption Framework Resources](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)
  * [AKS Documentation](https://docs.microsoft.com/en-us/azure/aks/) 
 
+ ## Additional CAF Solution Factories
+ * [WVD CAF Solution Factory](https://github.com/Azure/CAF_WVD_SolutionFactory)  
+ * [SQL CAF Solution Factory](https://github.com/Azure/SQL_CAF_SolutionFactory)  
+ * [ServerMigration CAF Solution Factory](https://github.com/Azure/ServerMigration_CAF_SolutionFactory)   
 
 ## Key Contributors
 Thanks to our contributors:  
-Microsoft Team: Farida Bharmal, Manish Dhall, Ali Hussain   
+Microsoft AKS Content Team: Ali Hussain, Tommy Falgout  
+Microsoft CAF Solution Factory Leads: Farida Bharmal, Manish Dhall  
 We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the contents.
 
 ## Support for future scenarios
