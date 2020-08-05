@@ -1,8 +1,10 @@
 # Azure Kubernetes Service(AKS) Solution Factory Aligned to Cloud Adoption Framework # 
+The AKS CAF Solution Factory has contents to help deployment of Kubernetes to Azure in alignment to Cloud Adoption Framework. 
+
 The AKS CAF Solution Factory is collection of eBook, TaskList in DevOps Project and Excel, Security Policies suggestions that can help Microsoft customers and partners to deploy and manage AKS in alignment to Cloud Adoption Framework (CAF).  
 
 The Azure Cloud Adoption Journey
- ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
+ ![CAF](/CAF.png)
 
 ## AKS CAF Solution Factory Contents
 
