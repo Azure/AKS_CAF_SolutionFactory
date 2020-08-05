@@ -51,7 +51,7 @@ This document speaks to the security best practices around AKS.
 
 ## Key Contributors
 Thanks to our contributors:  
-Microsoft Content Contribution Team: Ali Hussain, Tommy Falgout  
+Microsoft AKS Content Team: Ali Hussain, Tommy Falgout  
 Microsoft CAF Solution Factory Leads: Farida Bharmal, Manish Dhall  
 We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the contents.
 
