@@ -44,10 +44,15 @@ This document speaks to the security best practices around AKS.
  * [Additional Cloud Adoption Framework Resources](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)
  * [AKS Documentation](https://docs.microsoft.com/en-us/azure/aks/) 
 
+ ## Additional CAF Solution Factories
+ * [WVD CAF Solution Factory](https://github.com/Azure/CAF_WVD_SolutionFactory)  
+ * [AKS CAF Solution Factory](https://github.com/Azure/SQL_CAF_SolutionFactory)  
+ * [ServerMigration CAF Solution Factory](https://github.com/Azure/ServerMigration_CAF_SolutionFactory)   
 
 ## Key Contributors
 Thanks to our contributors:  
-Microsoft Team: Farida Bharmal, Manish Dhall, Ali Hussain   
+Microsoft Content Contribution Team: Ali Hussain, Tommy Falgout  
+Microsoft CAF Solution Factory Leads: Farida Bharmal, Manish Dhall  
 We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the contents.
 
 ## Support for future scenarios
