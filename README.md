@@ -46,7 +46,7 @@ This document speaks to the security best practices around AKS.
 
  ## Additional CAF Solution Factories
  * [WVD CAF Solution Factory](https://github.com/Azure/CAF_WVD_SolutionFactory)  
- * [AKS CAF Solution Factory](https://github.com/Azure/SQL_CAF_SolutionFactory)  
+ * [SQL CAF Solution Factory](https://github.com/Azure/SQL_CAF_SolutionFactory)  
  * [ServerMigration CAF Solution Factory](https://github.com/Azure/ServerMigration_CAF_SolutionFactory)   
 
 ## Key Contributors
